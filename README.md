@@ -10,4 +10,4 @@ Steps involved in spam classification:
 5- Spam Predictions  
 
 ### Disclaimer
-This exercise is done as part of the Machine Learning course on coursera offered by stanford and taught by Andrew Ng. 
+This exercise is done as part of the Machine Learning course on coursera offered by stanford and taught by Andrew Ng. The instructions, data and some of the coding files are part of the exercise material provided by the course catalog.
